@@ -9,14 +9,16 @@
 - Machinima animation created using - [Blockbuster mod](https://www.curseforge.com/minecraft/mc-mods/blockbuster)
 - Camera movements using - [Aperture mod](https://www.curseforge.com/minecraft/mc-mods/aperture)
 - Recorded using - [Minema mod](https://www.curseforge.com/minecraft/mc-mods/minema)
+- Other mods used - [Optifine](https://optifine.net)
 - Edited using - [VEGAS Pro 22](https://www.vegascreativesoftware.com/us/vegas-pro/)
 - Closed Captions created using - [Aegisub](https://aegisub.org/)
 - Video downloader - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- YouTube SEO - [vidIQ](https://vidiq.com/GrayHat667)
 
 ## Audio
 
 ### Music
-- [No.9 Esther’s Waltz](https://www.youtube.com/watch?v=fbGJgzJS3Ws)
+- [No.9 Esther’s Waltz](https://www.youtube.com/watch?v=fbGJgzJS3Ws) by Esther Abrami
 
 ### Sound effects
 - [Minecraft](https://www.minecraft.net/en-us) Sound Effects
