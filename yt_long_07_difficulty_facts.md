@@ -8,21 +8,21 @@ Sourced from
 - The Marvelous Misadventures of Flapjack
 
 ## Music
-Mellohi - C418
-Strad - C418
-Thirteen - C418
-Wait - C418
+- Mellohi - C418
+- Strad - C418
+- Thirteen - C418
+- Wait - C418
 
-Confident Kurt - TrackTribe
-Members Only - TrackTribe
-Smokey's Lounge - TrackTribe
-Walk Through the Park - TrackTribe
+- Confident Kurt - TrackTribe
+- Members Only - TrackTribe
+- Smokey's Lounge - TrackTribe
+- Walk Through the Park - TrackTribe
 
-Long Elevator - Toby Fox
+- Long Elevator - Toby Fox
 
 ## Font used
-https://github.com/IdreesInc/Monocraft
+- https://github.com/IdreesInc/Monocraft
 
-## Texture Pack Used
-(For the cat in the background)
-https://www.curseforge.com/minecraft/texture-packs/fresh-animations
+## Texture Pack Used 
+### (for the cat in the background)
+- https://www.curseforge.com/minecraft/texture-packs/fresh-animations
