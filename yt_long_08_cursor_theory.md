@@ -17,7 +17,7 @@ Sourced from
 - SAVE the World - Toby Fox
 - The Door - Toby Fox
 
-What If Gaster's Theme Was a Full Song? - Edgy Truck (YouTube)
+- What If Gaster's Theme Was a Full Song? - Edgy Truck (YouTube)
 
 ## Font used
 - https://fonts2u.com/8bitoperator-jve-regular.font
