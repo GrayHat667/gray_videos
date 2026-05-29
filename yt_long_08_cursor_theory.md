@@ -9,6 +9,7 @@ Sourced from
 - ASGORE - Toby Fox
 - Black Knife - Toby Fox
 - Bonetrousle - Toby Fox
+- Burn in Despair! - Toby Fox
 - Breath - Toby Fox
 - Gaster's Theme - Toby Fox
 - Gingerbread House - Toby Fox
